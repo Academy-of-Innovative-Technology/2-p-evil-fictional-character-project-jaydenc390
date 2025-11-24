@@ -1,3 +1,4 @@
+/* 
 function el(target, all) {
     if (all) {
         return document.querySelectorAll(target);
@@ -21,7 +22,7 @@ el(".page1, .about-page", true).forEach(btn => {
 });
 
 
-/* 
+
 el("h1").addEventListener("click", function() {
   // Toggle display between "none" and "block"
   const h1 = el("h1");

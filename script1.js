@@ -1,4 +1,4 @@
-/* let nav = document.querySelector("nav");
+let nav = document.querySelector("nav");
 let main = document.querySelector("main");
 let pages = document.querySelector(".pages");
 let page1 = document.querySelector(".page1");
@@ -141,5 +141,3 @@ homePage.addEventListener("click", function () {
   contactPageNav.style.color = "white";
   homePageNav.style.color = "cornflowerblue";
 });
-
-*/
