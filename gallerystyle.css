@@ -1,0 +1,48 @@
+.all-gallery {
+    color: #ffffff;
+}
+
+.page-titles3 {
+    display: flex;
+    justify-content: center;
+}
+
+.page-titles3-2 {
+    border: 5px solid #000000;
+    border-radius: 8px;
+    background-color: #000000;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.video-part {
+    border-left: 6.5px solid black;
+    border-right: 6.5px solid black;
+    border-radius: 5px;
+}
+
+.gallery-information-top {
+    display: flex;
+    justify-content: center;
+}
+
+video {
+    border-radius: 5px;
+}
+
+.audio-part {
+    border: 5px solid black;
+    border-radius: 31px;
+    margin-top: 25px;
+}
+
+.gallery-information-bottom {
+    display: flex;
+    justify-content: center;
+}
+
+audio {
+    border-radius: 5px;
+}
